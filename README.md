@@ -123,34 +123,6 @@ via Hugging Face Inference API.
 
 ---
 
-# 📌 Future Improvements
-
-- 📄 PDF Question Answering (RAG)
-- 🧠 Vector Database Integration (FAISS / ChromaDB)
-- 🔍 Embedding-based Retrieval
-- 📝 Prompt Engineering
-- 💾 Persistent Chat Memory
-- 🌐 FastAPI Backend
-- 🐳 Docker Deployment
-- 🔗 Multi-document conversational chatbot
-- 🎯 Source Citation Support
-
----
-
-# 📷 Screenshots
-
-_Add screenshots here after deployment_
-
-Example:
-
-```md
-![Chatbot UI](images/chatbot_ui.png)
-```
-
----
-
-# 🛡️ Disclaimer
-
 This project is developed for educational and learning purposes to explore:
 - LLM applications
 - LangChain orchestration
